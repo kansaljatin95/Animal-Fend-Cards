@@ -1,0 +1,39 @@
+
+
+.body{
+    padding: 20px;
+    width: 300px;
+    height: 600px;
+    box-shadow: 5px 5px 2px grey;
+    border: 1px solid grey;
+    margin: 0 auto;
+    
+    
+}
+.text{
+    border: 1px solid grey;
+    padding: 5px;
+    
+}
+
+.text1{
+    font-style: italic;
+    
+}
+
+.list{
+    font-weight: bold;
+    
+}
+
+li{
+    list-style: none;
+    margin-left: -40px;
+    
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    
+}
